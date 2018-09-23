@@ -7,6 +7,9 @@ def array_with_two_elements
   my_two_array
 end 
 
-def first_element
+def first_element(array)
   
+end 
+
+def third_element(array)
 end 
